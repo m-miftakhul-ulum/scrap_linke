@@ -2,4 +2,5 @@ venv/
 src/.env
 src/api-key.json
 src/chromedriver.exe
+src/cookies.json
 src/main.py
