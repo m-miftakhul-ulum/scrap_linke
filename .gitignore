@@ -1,0 +1,5 @@
+venv/
+src/.env
+src/api-key.json
+src/chromedriver.exe
+src/main.py
